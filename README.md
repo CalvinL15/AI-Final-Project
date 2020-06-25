@@ -2,7 +2,7 @@
 
 This repository contains the related codes of Group 34's final project for Artificial Intelligence course taught by Prof. Jane Hsu (NTU, Spring 2020).
 
-Before running the code, pycolab and curses have to first be installed into your python. It can be easily done with the pip command. Recommendation: run it in Ubuntu
+Before running the code, pycolab and curses have to first be installed into your python. Specifically for pycolab, it should be installed within this folder that you are running main.py. It can be easily done with the pip command. Recommendation: run it in Ubuntu
 
 The code takes 3 additional arguments: level [determine the map and how many pedestrians], the way pedestrians move, the algorithm used
 
