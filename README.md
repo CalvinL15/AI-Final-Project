@@ -21,3 +21,6 @@ Everytime the program finishes a simulation, it will write its output into a tex
 FAILURE! => if player fails to reach the destination without violating the rule
 
 Success! "x" => if player successfully reaches the destination within the constaints, where x = number of steps taken. 
+
+
+The shell script, shell.sh, was used for testing as it runs the program 20 times and stores each result in out.txt.
