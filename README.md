@@ -12,8 +12,10 @@ For the second arguments, the valid inputs are: 0-2, and for the third arguments
 
 Example to run the code: "python main.py 5 1 1" 
 
-To run the code multiple times, run the shellscript. However, to adjust how many times you want to run the code and what arguments do you want to run, you would have to change the script by yourself (line 6 and 9).
+To run the code multiple times, run the shellscript. However, to adjust how many times you want to run the code and what arguments you want to run, you would have to change the script by yourself (line 6 and 9).
 
 Everytime the program finishes a simulation, it will write its output into a text file "out.txt" in the format:
-# FAILURE! => if player fails to reach the destination without violating the rule
-# Success! "x" => if player successfully reaches the destination within the constaints, where x = number of steps taken. 
+
+FAILURE! => if player fails to reach the destination without violating the rule
+
+Success! "x" => if player successfully reaches the destination within the constaints, where x = number of steps taken. 
